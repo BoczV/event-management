@@ -1,4 +1,4 @@
-package com.Codecool;
+package com.Codecool.boczv.eventManagement;
 
 public class Main {
 
